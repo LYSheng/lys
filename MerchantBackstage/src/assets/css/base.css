@@ -1,0 +1,11 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, figure, footer, header, menu, nav, section, time, mark, audio, video, details, summary{ margin:0; padding:0;}
+body{ font-family:'Avenir',' Helvetica', 'Arial', 'sans-serif';  background-image:url(about:blank); background-attachment:fixed; }
+a{  text-decoration:none;}
+a:hover{text-decoration:none;}
+img{ border:none; vertical-align:middle; max-width: 100%;}
+i,em{ font-style:normal;}
+li{ list-style-type:none;}
+textarea{ resize:vertical;}
+input, select, textarea{outline:none;}
+ul,li{ padding:0;margin:0;list-style:none}
+.f10{font-size:10px}.f12{font-size:12px}.f13{font-size:13px}.f14{font-size:14px}.f16{font-size:16px}.f20{font-size:20px}.fb{font-weight:bold}.fn{font-weight:normal}

@@ -1,0 +1,66 @@
+.add-breadcrumb{
+    height: 50px;
+    position: relative;
+    border-bottom: 1px solid #dfdfdf;
+}
+.stopApplies{
+    position: absolute;
+    right: 10px;
+    top: 11px;
+    padding: 8px 15px;
+    background-color: #3467b5;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.applies-message{
+    margin: 20px;
+
+}
+.applies-left{
+    width: 115px;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+.applies-li{
+    display: flex;
+    margin-top: 15px;
+}
+.applies-zs{
+    color: #999999;
+    margin-top:5px;
+}
+.greenTxt{
+    color: #009900;
+}
+.applies-right{
+    flex-grow: 1;
+
+}
+.lanColor{
+    color: #3467b5;
+    cursor: pointer;
+}
+
+.cg{
+    color: #009900;
+    font-size: 32px;
+    width: 100%;
+    text-align: center;
+}
+.cgText{
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px;
+}
+.sb-icon{
+    font-size: 20px;
+    color: red;
+}
+.know{
+    margin: 0 auto;
+    text-align: center;
+}
+.sbWhy{
+    padding: 15px 0px;
+}

@@ -1,0 +1,198 @@
+.search-box,.medium-box{
+  border-radius: 12px;
+  overflow: hidden;
+  /*box-shadow: 1px 1px 9px #c6bfbf;*/
+}
+.search-top{
+  display: flex;
+  justify-content: space-between;
+  padding: 30px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #F5F5F5;
+  /*background-color: #fff;*/
+  background-color: #f6f6f6;
+
+}
+.search-bottom{
+  padding: 30px;
+  /*background-color: #fff;*/
+  background-color: #f6f6f6;
+  transition: all .5s
+}
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s
+}
+.fade-enter, .fade-leave-to{
+  opacity: 0;
+}
+.search-top-left{
+  display: flex;
+  height: 36px;
+}
+.btn-radius{
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  margin-left: -5px;
+  z-index: 999;
+}
+.time-search{
+  margin-right: 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+.deal-box{
+  font-size: 14px;
+  color: #000;
+}
+.deal-li{
+  color: #333;
+  margin: 0px 15px;
+  cursor: pointer;
+}
+.activeTime{
+  color: #3467b5;
+  font-weight: bold;
+}
+.activeColor{
+  color: #3467b5;
+}
+.medium-box{
+  margin-top: 20px;
+}
+.medium-top{
+  padding: 30px 55px;
+  /*background-color: #fff;*/
+  background-color: #ebf5fc;
+  display: flex;
+}
+.medium-bottom{
+  padding: 30px 55px;
+  /*background-color: #fff;*/
+  background-color: #ebf5fc;
+  display: flex;
+  padding-bottom: 0px;
+  border-top: 1px solid #F5F5F5;
+}
+.medium-ul{
+  min-width: 25%;
+}
+.medium-li{
+  color: #000;
+  font-size: 12px;
+}
+.medium-title{
+  font-size: 12px;
+  font-weight: bold;
+}
+.tooltip-icon{
+  color: #DBDBDB;
+  font-size: 12px;
+  cursor: pointer;
+}
+.medium-padding{
+  padding: 20px 0px;
+
+}
+.medium-money{
+  margin-right: 10px;
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+}
+.medium-bi{
+  color: #707070;
+}
+.medium-money-green,.medium-green{
+  color: #17ba17;
+}
+.medium-money-red,.medium-red{
+  color: red;
+}
+
+.table-box{
+  border-radius: 12px;
+  overflow: hidden;
+  /*box-shadow: 1px 1px 9px #c6bfbf;*/
+  background-color: #fff;
+}
+.tab-box{
+  /*padding: 25px 30px;*/
+  position: relative;
+  padding-bottom: 0px;
+}
+.download-icon{
+  font-size: 25px;
+  position: absolute;
+  right: 35px;
+  bottom: 21px;
+  color: #979191;
+  cursor: pointer;
+}
+.page-box{
+  padding: 37px 30px ;
+  text-align: right;
+
+}
+
+.details-top{
+  padding: 25px 28px;
+  border-bottom: 1px solid #f5f5f5;
+}
+.details-list{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.details-content{
+  padding: 25px 28px;
+}
+.See{
+  color: #0DA8DB;
+  text-align: right;
+  padding-bottom: 30px;
+  padding-right: 28px;
+  cursor: pointer;
+}
+.medium-aboust{
+  font-size: 22px;
+  cursor: pointer;
+}
+.medium-down-box{
+  /*background-color: #fff;*/
+  background-color: #ebf5fc;
+  padding: 20px 44px;
+  text-align: right;
+  padding-top: 0px;
+  color: #979191;
+}
+.rotate{
+  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg); /* flip horizontally 180deg*/
+  -moz-transform: rotateY(180deg);
+}
+.el-icon-right{
+  transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg); /* flip horizontally 180deg*/
+  -moz-transform: rotateY(180deg);
+}
+.hei{
+  color: #333;
+}
+.huang{
+  color: orangered;
+}
+.hui{
+  color: #ACACAC;
+}
+.table-content{
+  /*padding: 0px 30px;*/
+}
+.page-box{
+  font-size: 12px;
+  color: #3467b5;
+  font-family: SourceHanSansCN-Medium;
+}
+.chgepin{
+  cursor: pointer;
+  margin: 0px 5px;
+}

@@ -1,0 +1,23 @@
+.information-box{
+  width: 83%;
+  padding: 15px 20px;
+  border: 1px dashed #DFDFDF;
+  background-color: #fff;
+  padding-left: 15%;
+}
+.content-ul{padding: 15px 0px;display: flex; }
+.edioright{text-align: right}
+.content-name{
+  color: #C6C6C6;
+  font-size: 14px;
+}
+.content-right{
+  color: #202020;
+  font-size: 14px;
+  margin-left: 25px;
+  font-family: Hiragino Sans GB;
+}
+.content-img{display: block;width: 120px;height: 120px;}
+.content-spec{padding: 0px 20px;background-color: #A5B6BE;color: #fff;font-size: 10px;height: 20px;line-height: 20px;border-radius: 3px;}
+.content-right-box{display: flex;}
+.content-spec-img{width: 100px;height: 100px;margin-left: 35px;}
